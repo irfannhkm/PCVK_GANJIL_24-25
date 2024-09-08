@@ -1,9 +1,11 @@
 # PCVK_GANJIL_24-25
 
-<h1 align="center">Hi 👋, I'm Muhammad Irfan Nur Hakim</h1>
+<h1 align="left">Hi 👋, I'm Muhammad Irfan Nur Hakim</h1>
+
 |Nama|Muhammad Irfan Nur Hakim |
 |----------------|--------------------------|
 |Kelas          |TI-3F  |
+|NIM          |2241620230|
 |Absen          |`15`|
 
 - 🌱 I’m currently learning **in State Polytechnic of Malang**
